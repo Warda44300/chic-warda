@@ -1,6 +1,6 @@
-# chic-warda
+# Les délices de l'orient
 site ecommerce wordpress
-# SITE E-COMMERCE CHIC WARDA
+# SITE E-COMMERCE LES DELICES DE L'ORIENT
 Création de site en local avec **Flywheel**: http://chic-warda.local
 Il génere un compte wordpress, la base de données sur MySql, nom de domaine temporaire.
 
