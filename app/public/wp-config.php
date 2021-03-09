@@ -1,4 +1,10 @@
 <?php
+
+// BEGIN iThemes Security - Do not modify or remove this line
+// iThemes Security Config Details: 2
+define( 'DISALLOW_FILE_EDIT', true ); // Disable File Editor - Security > Settings > WordPress Tweaks > File Editor
+// END iThemes Security - Do not modify or remove this line
+
 /**
  * The base configuration for WordPress
  *
@@ -46,14 +52,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'AOr23sYuLFvTcokj/evMf02WOJ4iCp3wS+Feke+xZ7m3h+Dr2vJzsymS/syUZWlQqt23cA3o8cCNSLTRp8DxAQ==');
-define('SECURE_AUTH_KEY',  'Xn9Rkhe0Pph0XrrbUagReq/6vZ62lkZDfErCBHuMfRhnWU4kCz28de7WtuvDDEwL8cjiDIRa/YDOEW+HdIjO0w==');
-define('LOGGED_IN_KEY',    'BlrOHJs2dde/GdfcmCJq+69JVXxt4NmdDRmxnaBaVz4+jyowDULPWo5E19rEkGyVb1Fta3d5ol8vMaFjjSmHCw==');
-define('NONCE_KEY',        'jCr4WZOkdkvjBzs06YvQAXROtN7DHBe25CUYp5mPYa+C5uwWiATxdzXplexmtILVsdmT76istGlldHqdgxh4yg==');
-define('AUTH_SALT',        'X2C5/sWnq6LHVT0XwhmAq3O3EK0ul9kXSTnsi7TR+gf5vd6Nuuuh9Oc1HGzM6J3SodURwvGZoSXbD5E6uALXMQ==');
-define('SECURE_AUTH_SALT', 'ogyz1GXvoDXc3QObXZ4ydA99/jhFOpCPyAujlWP/1lc2SCPpk9fRxeXE1VDie32Vg4/t1VqQFM5yqQNZnELSxg==');
-define('LOGGED_IN_SALT',   'k5dCJQScbHuNtMxKsjwh4MAUAUBv0IRKwjANmBD3N+YE6mKAoRKfx2PlwdhDz9bbqN9/q1bUpCiMAa78iaqSLA==');
-define('NONCE_SALT',       'A3nasX+rQqCQVpXUlD5JrhKJKMk52xHUYPWd1vFnaRmg0MSib9JR9eK9Jk61oTC4loqLPtxLKLEQuCmEThUMgg==');
+define('AUTH_KEY',         'wjR0sIy4frgABVnYMR36ypwL3QvBH3sOdAdw6CgjstgopiY9JvxhV2TQfZK6jcPv5oEsfMEQCBbdF5Y5ReeMAw==');
+define('SECURE_AUTH_KEY',  'CGtb3IYVi1OmxP/qOWdlqKRjhPGTESq+MoRJz0lIRZhH9dZ/k5yB7wW5KPo/htsufprhVXtKx1mxG2sYRHj9mQ==');
+define('LOGGED_IN_KEY',    'PCoUhNcpD2objwAronwkPEH+J7bLWxGKrNfap6eZfi2ywf+CLzlcN9lNDr69o4NZ58fd9qaZr0XnENWzE5YkQw==');
+define('NONCE_KEY',        'HTUKCQeaUO172zzfT2mRBKV4YDnPhxrcv9HD3WAEIxPmopYPRh5UZD+RWLUp7G3bgoELHsBUZBRaXBXcC0WcaQ==');
+define('AUTH_SALT',        'AwAgm75Y1qh2mv8HztMUUxW5Dc935yGHcynPkJ7DneC8FeqgfZavKRWpbC3flRTBVQ5Fz9H9ohEJ7Gs/0ISk9g==');
+define('SECURE_AUTH_SALT', 'QYY3xuJPP2CFNdoyIX6Dsm28KSCUGKop/eWsn4167nLB7gFFqwq2/vwwqrviMO4zkQUvuFeUYRovVltg8a9h7A==');
+define('LOGGED_IN_SALT',   'lsQFPAeXjyjaP6FS2QwJyk61YFh7K+kjtvGm2lmLMIyf9ig5iv5tfPmgZaM/lK0EiPStI5n7WF5zS/uxqcN3Pg==');
+define('NONCE_SALT',       'fvwK404eI8o34D5lDf6+o+Gq4zS6wX7RGpRINSRK2nf5F2bLOgNQNCrodShPCFuncTz5YIexbZ9+VXtPIcRRjg==');
 
 /**
  * WordPress Database Table prefix.
