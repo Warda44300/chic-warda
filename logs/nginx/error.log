@@ -5,3 +5,4 @@
 2021/02/23 12:26:23 [error] 11156#8704: *16380 no live upstreams while connecting to upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.0", upstream: "fastcgi://php", host: "les-dlices-de-lorient.local", referrer: "http://les-dlices-de-lorient.local/shop/"
 2021/02/23 13:43:07 [alert] 1724#13512: OpenEvent("ngx_master_6316") failed (2: FormatMessage() error:(15100))
 2021/02/23 15:36:13 [alert] 14216#11020: OpenEvent("ngx_master_2396") failed (2: FormatMessage() error:(15100))
+2021/03/09 11:32:57 [alert] 5088#12188: OpenEvent("ngx_master_18196") failed (2: FormatMessage() error:(15100))
